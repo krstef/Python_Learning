@@ -48,4 +48,4 @@ while(1):
             print(item)
     else:
         print(output)
-    print("\n")
+    print("\nLet's try another one!")
