@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=SQLite app
+Exec=/home/krst_pc/Documents/Education/Python_Learning/tkinter-db-examples/example/make_it_executable/gui_script.py
+Icon=/home/krst_pc/Documents/Education/Python_Learning/tkinter-db-examples/example/make_it_executable/calculator.png

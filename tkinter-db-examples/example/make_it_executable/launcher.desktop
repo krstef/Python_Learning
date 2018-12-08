@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name=Calc app
+Exec=/home/krst_pc/Documents/Education/Python_Learning/tkinter-db-examples/example/gui_script.py
+Icon=/home/krst_pc/Documents/Education/Python_Learning/tkinter-db-examples/example/calculator.png
+Path=/home/krst_pc/Documents/Education/Python_Learning/tkinter-db-examples/example
