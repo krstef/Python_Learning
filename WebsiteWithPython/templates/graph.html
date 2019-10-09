@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+{% block content %}
+<!--<link rel="stylesheet" href="{{cdn_css_placeholder | safe}}" type="text/css">-->
+<!--<link rel="stylesheet" href="https://cdn.org/bokeh/release/bokeh-0.11.1.min.css" type="text/css"/>-->
+<script type="text/javascript" href="{{cdn_js_placeholder | safe}}"/>
+<div class="graph">
+    <h1>graph html</h1>
+</div>
+{{javascript_placeholder| safe}}
+{{html_placeholder | safe}}
+{% endblock %}
