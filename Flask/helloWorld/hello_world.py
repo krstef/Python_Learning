@@ -8,7 +8,7 @@ This decorator says the main_view responds to "/" URL - localhost:5000/
 """
 @app.route('/')
 def main_view():
-    # implementation of view
+    # implementation of view (MVC - this is a controller)
     return "Hello World"
 
 
