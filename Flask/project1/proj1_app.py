@@ -6,7 +6,7 @@ app = Flask(__name__)
 @app.route('/')
 @app.route('/index')
 def main_view():
-    # render_template looks in the 'templates' directory by default
+    # render_template looks in the 'template' directory by default
     # welcome_text keyword is an example of passing values to html template using Jinja2
     return render_template("extended_index.html", welcome_text="This is simple bookmarking site. Developed for learning purposes.")
 
